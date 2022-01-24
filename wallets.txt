@@ -1,0 +1,14 @@
+
+              Private Key HEX: f3966e8d7152faf62e6e24b3151cf48159d24493e1d12c1c1cb270d3ae9ce30b
+              Private Key WIF: 5KfZhaYwZVWrBBbDw1huJw5Ld61zNV8y1BVHTLsZ8DjDWu9p2Dm
+              Private Key WIF compressed: L5PDL75ypQrk3wk45Q7Xt9g9cH9NDqCABoHqdGi8nsBLEwqJCoYT 
+            
+Public Key: 04f62b3ac96ca35ba3e5405c9d855900f8d54c9f990bfbd75feac05559c76fac919ba889e2b7b5e1197c929ac2cc3b88f74d039c44e3a67d4efaddbb70efa43bc9 
+                      Public Key compressed: 03f62b3ac96ca35ba3e5405c9d855900f8d54c9f990bfbd75feac05559c76fac91
+
+                      Public Address 1: 1DyPFy3vARUQEQm8eLcdc4u6Xu6JaXZwS   
+                      Public Address 1 compressed: 1FZ1DxTgV6ngTYWEmMEYShWJh8cC4aLvz   
+                      Public Address 3: 36tr6qFZeHKmaorK4tZ7EF6dwWsfkh3f4p  
+                      Public Address bc1 P2WPKH: bc1qqtqgnaaz85f4437j6xpqwqm9d2dumc2kcsp35k    
+                      Public Address bc1 P2WSH: bc1q8g84zjvuvpcqnmd8yydzmzkelkzadd9f4gpa2ftsdkyaevrd6fsqd8pa3g  
+                    
