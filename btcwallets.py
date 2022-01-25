@@ -25,9 +25,13 @@ def wallet_attributes():
     print(wallet.address.__dict__['mainnet'].__dict__)
     print(wallet.address.__dict__['testnet'].__dict__)
 
-print(mainnet_wallet_create())
 
 x = str(mainnet_wallet_create())
 
-with open('wallets.txt', 'w+') as f:
+print(x)
+#print(testnet_wallet_create())
+
+
+with open('wallets.txt', 'a') as f:
     f.write(x)
+    f.close()
