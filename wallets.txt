@@ -38,3 +38,16 @@ Public Key: 045321719698b3461dbaf6afbfa3679fb76b432b798675f83c857eb93a83bb8d7f8e
                       Public Address bc1 P2WPKH: bc1qj6q6sdq9jgjkeeyc67mjvarp96gry4h2vjdnd2    
                       Public Address bc1 P2WSH: bc1qgu7ve5r96q4a33x3tshxnj54j6mfwwxt36xr8tlvug9t8eeq4nzsyf38pr  
                     
+              Private Key HEX: fcf7486ad96533715100b54f87b7c476120aae30a2395389b0e5b0163a61485a
+              Private Key WIF: 5KjhFsKU1SdXrYF7y1aerKqNmTXvPnJvBGvXt3fV6A8XxEE8yQJ
+              Private Key WIF compressed: L5hSgd6WCx8FBeuKkDZY4i8X5E7UfYz5iMHHJJkrymJFcWQHFiTg 
+            
+Public Key: 04aa877e1e99830487bbd13472d8e146b22808e0ca86c98b442013c249455b3b49a9486099b5326594a22b5a891409d1f7ff4e95f8f5249dc626942c57ae3bd66b 
+                      Public Key compressed: 03aa877e1e99830487bbd13472d8e146b22808e0ca86c98b442013c249455b3b49
+
+                      Public Address 1: 1FnZ8rWcbYWuxrAXW3Tx75LVMZQtrdEu73   
+                      Public Address 1 compressed: 1GnDsiXTPpjxNMrHW9T7cJUZXjM7643Vzr   
+                      Public Address 3: 3PuL2egaoohAmDdnUeVDiCYwkA5VeLFpuz  
+                      Public Address bc1 P2WPKH: bc1q45t45gz40c2se3sfhgyht2gz2y8w6hzuc74ng6    
+                      Public Address bc1 P2WSH: bc1qq6ds9f5s3qjhye5x42q69jyxawms58946qmaz5p584rjevmjqs4qnvqtul  
+                    
